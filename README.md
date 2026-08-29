@@ -1,7 +1,10 @@
 ### [Learning Langchain_ORELLY Book](https://github.com/langchain-ai/learning-langchain/tree/master)
 ![Learning Langchain_ORELLY Boo](https://contents.kyobobook.co.kr/sih/fit-in/400x0/pdt/9781098167288.jpg)
+#### [랑체인 베우기](https://wikidocs.net/231151)
+#### [langgraph](https://wikidocs.net/261618)
+#### [langchain-ai/RAG-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
 
-### FastAPI를 이용해 AI 기반 REST API 서버를 설계하고 구현
+### Gemini SDK
 #### [Gemini API: Getting started with Gemini models](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb#scrollTo=eVmFDcYOSNiV)
 - Streamlit/gradio을 활용하여 데이터 기반 웹 인터페이스를 구축
 - 두 기술을 통합하여 상호작용 가능한 웹 서비스를 만들고, 실제 AI 모델 또는 LLM을 연동
@@ -21,6 +24,3 @@
            2.3. 질문에 답변하도록 만드는 전체 과정을 코드를 실행하며 단계별로 구현
 - [Gemini Agent_01](https://github.com/ancestor9/2025_Fall_FastAPI/tree/main/week09_Chavrusa_04)
 - [Gemini Agent_02](https://github.com/ancestor9/2025_Fall_FastAPI/tree/main/week06)
-### [랑체인 베우기](https://wikidocs.net/231151)
-### [langgraph](https://wikidocs.net/261618)
-### [langchain-ai/RAG-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
