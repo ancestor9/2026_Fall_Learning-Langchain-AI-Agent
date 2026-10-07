@@ -1,4 +1,4 @@
-# Multi-Database 기반 LLM Application 개발 프로젝트
+# Multi-Database 기반 LLM Application 개발 프로젝트 (수업 중에 끝나면 A+)
 
 ## 1. 과제 개요
 
