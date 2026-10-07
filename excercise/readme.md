@@ -14,6 +14,9 @@
 - LLM Application의 전체적인 데이터 처리 및 검색 구조를 이해한다.
 - PDF, TXT, CSV 등 서로 다른 형태의 데이터를 Loading하고 전처리하는 방법을 학습한다.
 - 문서를 Chunk 단위로 분할하고 Embedding Vector로 변환하는 과정을 이해한다.
+-       chunk_size = 300
+        chunk_size = 500
+        chunk_size = 1000
 - PostgreSQL 기반 RDB와 Vector DB의 차이 및 활용 방법을 이해한다.
 - Graph DB를 이용하여 데이터 간의 관계를 표현하고 검색하는 방법을 학습한다.
 - 사용자의 자연어 질문을 분석하여 적절한 데이터베이스를 선택하는 LLM Router를 구현한다.
