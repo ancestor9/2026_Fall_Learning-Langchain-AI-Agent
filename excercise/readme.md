@@ -1,4 +1,5 @@
-# Multi-Database 기반 LLM Application 개발 프로젝트 (수업 중에 끝나면 A+)
+# Multi-Database 기반 LLM Application 개발 프로젝트 
+- 수업 중에 끝나면 A+ & 마지막 기말시험 면제(마지막 수업 안 들어도 됨)
 
 ## 1. 과제 개요
 
