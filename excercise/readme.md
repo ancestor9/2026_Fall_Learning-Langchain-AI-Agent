@@ -17,7 +17,7 @@
 -       chunk_size = 300
         chunk_size = 500
         chunk_size = 1000
-- PostgreSQL 기반 RDB와 Vector DB의 차이 및 활용 방법을 이해한다.
+- PostgreSQL 기반 RDB와 Vector DB(Supabase PostgreSQL의 pgvector)의 차이 및 활용 방법을 이해한다.
 - Graph DB를 이용하여 데이터 간의 관계를 표현하고 검색하는 방법을 학습한다.
 - 사용자의 자연어 질문을 분석하여 적절한 데이터베이스를 선택하는 LLM Router를 구현한다.
 - Retrieval 결과를 LLM에 전달하여 근거 기반의 답변을 생성하는 RAG 구조를 구현한다.
