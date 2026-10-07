@@ -6,7 +6,7 @@
 - RDB, Vector DB, Graph DB를 각각 구축하고 데이터의 특성과 사용자 질문의 유형에 따라 적절한 데이터베이스를 선택하여 검색하는 Multi-Database RAG 시스템을 구현한다.
 - 사용자의 질문을 LLM이 분석하여 적절한 데이터베이스를 Routing하고, 해당 데이터베이스에서 검색한 결과를 다시 LLM에 전달하여 자연어 형태의 최종 답변을 생성하도록 구현한다.
 - 최종적으로 Streamlit 기반의 Web Application을 구현하여 사용자가 직접 질문하고 결과를 확인할 수 있도록 한다.
-
+### Question → Routing → DB Selection → Retrieval → LLM Answer
 ---
 
 # 2. 과제 목표
