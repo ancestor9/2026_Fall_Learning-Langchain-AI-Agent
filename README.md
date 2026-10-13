@@ -22,4 +22,3 @@
       -    2.1. 특정 텍스트 파일(txt)을 업로드하고, (Gemini Grounding 기능)
            2.2. AI가 오직 그 파일의 내용만을 '검색'하고 '참고'하여
            2.3. 질문에 답변하도록 만드는 전체 과정을 코드를 실행하며 단계별로 구현
-- [Gemini Agent_02](https://github.com/ancestor9/2025_Fall_FastAPI/tree/main/week06)
