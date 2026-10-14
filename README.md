@@ -4,7 +4,7 @@
 #### [langgraph](https://wikidocs.net/261618)
 #### [langchain-ai/RAG-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
 
-### Gemini SDK
+### Term-project
 - Streamlit/gradio을 활용하여 데이터 기반 Web application 구축
 - 두 기술을 통합하여 상호작용 가능한 웹 서비스를 만들고, 실제 AI 모델 또는 LLM을 연동
 - [RAG](https://mintcdn.com/langchain-5e9cc07a/I6RpA28iE233vhYX/images/rag_indexing.png?w=840&fit=max&auto=format&n=I6RpA28iE233vhYX&q=85&s=1838328a870c7353c42bf1cc2290a779) 실전 프로젝트를 통해 기획부터 배포까지의 전 과정을 경험
