@@ -1,6 +1,6 @@
 # Code 실습 내용
         - Agent.ipynb: AI Agent의 기본 구조 및 동작 방식*
-        - Gemini API Get_started.ipynb: Gemini API 연동 설정 및 기초 활용*
+        - Gemini API Get_started.ipynb: Gemini API 연동 설정 및 기초 활용
         - Langchain_Langsmith_Quickstart.ipynb: LLM 애플리케이션 전용 개발·테스트·모니터링·평가(DevOps/LLMOps) 플랫폼 - 에이전트, RAG, 체인 등을 구축할 때 내부 상황을 추적 관리
         - Langchain_rag_geminiAPI.ipynb: LangChain 프레임워크와 Gemini API를 결합하여 RAG(검색 증강 생성) 시스템을 구현*
         - RAG_supabase.ipynb: Supabase의 pgvector(Vector DB)를 활용하여 벡터 검색 기반 RAG를 구현
