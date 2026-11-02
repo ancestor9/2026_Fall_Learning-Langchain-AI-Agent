@@ -1,5 +1,5 @@
 # Code 실습 내용
-        - 20261102_Text_Representation.ipynb : Text Representations (Tokenization, Onehotencoder, DTM, TF-IDF, Word2Vec, Disatances)
+        - 20261102_Text_Representation.ipynb: Text Representations(Tokenization,Onehotencoder,DTM,TF-IDF,Word2Vec,Disatances)
         - Agent.ipynb: AI Agent의 기본 구조 및 동작 방식*
         - Gemini API Get_started.ipynb: Gemini API 연동 설정 및 기초 활용
         - Langchain_Langsmith_Quickstart.ipynb: LLM 애플리케이션 전용 개발·테스트·모니터링·평가(DevOps/LLMOps) 플랫폼 - 에이전트, RAG, 체인 등을 구축할 때 내부 상황을 추적 관리
